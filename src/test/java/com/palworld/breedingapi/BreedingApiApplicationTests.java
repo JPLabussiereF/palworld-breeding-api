@@ -1,4 +1,4 @@
-package com.palworld.breeding_api;
+package com.palworld.breedingapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
