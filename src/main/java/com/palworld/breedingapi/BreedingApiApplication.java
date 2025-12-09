@@ -1,4 +1,4 @@
-package com.palworld.breeding_api;
+package com.palworld.breedingapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
