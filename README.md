@@ -41,7 +41,7 @@ A mecânica implementada neste projeto segue a fórmula:
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/JPLabussiereF/palworld-breeding-api.git](https://github.com/SEU-USUARIO/palworld-breeding-api.git)
+   git clone [https://github.com/JPLabussiereF/palworld-breeding-api.git](https://github.com/JPLabussiereF/palworld-breeding-api.git)
     ```
 
 2.  Entre na pasta:
